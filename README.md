@@ -69,3 +69,8 @@ This list is published under [CC0-1.0](LICENSE). Linked projects retain their ow
 - LLM-friendly index: https://clickhouse.com/docs/chdb/llms.txt
 - Community: https://discord.gg/D2Daa2fM5K
 - Twitter / X: [@chdb_io](https://twitter.com/chdb_io)
+
+### Awesome lists featuring chDB
+
+- [samber/awesome-olap](https://github.com/samber/awesome-olap) — curated OLAP databases, data lake tools, and columnar engines.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) — curated Python frameworks, libraries, and resources.
